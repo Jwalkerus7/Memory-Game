@@ -1,0 +1,48 @@
+.grid {
+    /* original code background-color: greenyellow;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 300px; */
+  margin: auto;
+  justify-content: center;
+  background-color: greenyellow;
+  padding: 40px;
+  flex-wrap: wrap;
+  display: flex;
+  width: 800px;
+  height: 600px;
+  }
+
+  .score {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: red;
+    color: azure;
+    text-align: center;
+  }
+
+  .header {
+      background-color: red;
+  }
+
+
+  .body-1 {
+      background-color: blanchedalmond;
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: azure;
+    text-align: center;
+ }
+
+
+
+
